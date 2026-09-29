@@ -1,0 +1,12 @@
+// HackerRank Problem: Arrays
+// Link: https://www.hackerrank.com/challenges/np-arrays/problem
+// Difficulty: Easy
+// Language: pypy3
+
+
+
+def arrays(arr):
+    arr.reverse()
+    arr = numpy.array(arr,float)
+    return arr
+
